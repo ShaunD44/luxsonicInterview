@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - StepOne
+  - StepTwo
+  - StepThree
+  - StepFour
   layers:
   - Default
   - TransparentFX
